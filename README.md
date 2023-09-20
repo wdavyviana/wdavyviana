@@ -3,7 +3,8 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wdavyviana)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-davy-viana-rolim-b852a9224/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wdavyviana/)
-
+</br>
+<img src="https://komarev.com/ghpvc/?username=your-github-wdavyviana&style=flat-square&color=blue" alt=""/> </br>
 ![Wendel's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdavyviana&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavyviana&demo_progress=true&theme=tokyonight)
