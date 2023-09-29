@@ -14,7 +14,7 @@
 
 ### Technologies I use in my day
 <div style="display: inline_block;"><br>
-<div aling="center">
+<div aling="center" width="800px">
     <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
