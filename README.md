@@ -25,4 +25,4 @@
     <img aling="center" alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
     <img aling="center" alt="analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
 </div>
-![snake gif](https://github.com/Formandodev/wdavyviana/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/wdavyviana/wdavyviana/blob/output/github-contribution-grid-snake.svg)
