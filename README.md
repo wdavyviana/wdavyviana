@@ -8,8 +8,8 @@
 </br><img  align="center" src="https://komarev.com/ghpvc/?username=your-github-wdavyviana&style=flat-square&color=blue" alt=""/> </br>
 
 <div>  
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=wdavyviana&show_icons=true&theme=tokyonight">
-<img  height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavyviana&layout=compact&icons=true&theme=tokyonight">
+<img height="220em" width="400em" src="https://github-readme-stats.vercel.app/api?username=wdavyviana&show_icons=true&theme=tokyonight">
+<img  height="220em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavyviana&layout=compact&icons=true&theme=tokyonight">
 </div>
 
 ### Technologies I use in my day
