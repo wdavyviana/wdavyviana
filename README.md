@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/wdavyviana/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:wdavyviana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discord.gg/H7m3MEwN"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</br><img  align="center" src="https://komarev.com/ghpvc/?username=your-github-wdavyviana&style=flat-square&color=blue" alt=""/> </br>
+</br><img  align="center" src="https://komarev.com/ghpvc/?username=your-github-wdavyviana&style=for-the-badge&color=C500FF" alt=""/> </br>
 
 <div>  
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wdavyviana&show_icons=true&theme=tokyonight">
