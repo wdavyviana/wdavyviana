@@ -22,6 +22,7 @@
     <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img height="30em" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=148&color=currentColor"/>
     <img height="30rm" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+    <img height="30rm" src="https://icongr.am/devicon/wordpress-plain.svg?size=148&color=0084ff"/>
     
 </div><br>
 <div aling=""center>
