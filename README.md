@@ -25,7 +25,7 @@
     <img height="30rm" src="https://icongr.am/devicon/wordpress-plain.svg?size=148&color=0084ff"/>
     
 </div><br>
-<div aling=""center>
+<div aling="center">
     <img aling="center" alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
     <img aling="center" alt="analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
 </div>
