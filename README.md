@@ -17,11 +17,6 @@
 <a href="https://discord.gg/H7m3MEwN"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </br><img  align="center" src="https://komarev.com/ghpvc/?username=your-github-wdavyviana&style=for-the-badge&color=C500FF" alt=""/> </br>
 
-<div>  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=wdavyviana&show_icons=true&theme=tokyonight">
-<img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavyviana&layout=compact&icons=true&theme=tokyonight">
-</div>
-
 ### Technologies I use in my day
 <div style="display: inline_block;"><br>
 <div aling="center" width="800px">
@@ -40,4 +35,4 @@
     <img aling="center" alt="analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
